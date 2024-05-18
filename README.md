@@ -23,7 +23,7 @@
   </a>
   
   <a href="https://redux.js.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/330px-Redux_Logo.png" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/reactjs/redux/master/logo/logo.png" alt="react" width="40" height="40"/>
   </a>
   
   <a href="https://www.typescriptlang.org/" target="_blank"> 
