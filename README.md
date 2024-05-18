@@ -32,7 +32,7 @@
     <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="git" width="40" height="40"/>
   </a>
   <a href="https://about.gitlab.com/" target="_blank"> 
-    <img src="https://about.gitlab.com/" alt="gitlab" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/331410/gitlab.svg" alt="gitlab" width="40" height="40"/>
   </a>
   <a href="https://webpack.js.org/" target="_blank"> 
     <img src="https://www.svgrepo.com/show/342353/webpack.svg" alt="webpack" width="40" height="40"/>
