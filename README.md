@@ -17,6 +17,18 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/120px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
   </a>
+
+  <a href="https://react.dev/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/130px-React_Logo_SVG.svg.png" alt="react" width="40" height="40"/>
+  </a>
+  
+  <a href="https://redux.js.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/330px-Redux_Logo.png" alt="react" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/120px-Typescript_logo_2020.svg.png" alt="react" width="40" height="40"/>
+  </a>
 </p>
   
 ### 🔧 Other skills
